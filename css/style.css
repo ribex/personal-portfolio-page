@@ -26,6 +26,16 @@
   border-radius: 1px;
 }
 
+article {
+  margin: 50px;
+}
+
+#social {
+  font-size: 30px;
+  font-family: fantasy;
+  color: #dee2e8;
+}
+
  #home {
    padding-top:50px;
    height:800px;
