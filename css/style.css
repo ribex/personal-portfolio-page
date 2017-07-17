@@ -1,9 +1,11 @@
 .body {
+  
   font-family: "Hevletica Neue",Helvetica,Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
   color: #333;
   background-color: #fff;
+  margin: 50px;
 }
 
 
@@ -23,3 +25,28 @@
   height: 2px;
   border-radius: 1px;
 }
+
+ #home {
+   padding-top:50px;
+   height:800px;
+   color: #fff; 
+   background-color: #bbceed;
+ }
+  #aboutme {
+    padding-top:50px;
+    height:800px;
+    color: #fff; 
+    background-color: #91a0ba;
+  }
+  #portfolio {
+    padding-top:50px;
+    height:800px;
+    color: #fff; 
+    background-color: #717d91;
+  }
+  #contact {
+    padding-top:50px;
+    height:800px;
+    color: #fff; 
+    background-color: #444c59;
+  }
