@@ -28,6 +28,14 @@
 
 article {
   margin: 50px;
+  font-size: 18px;
+  font-family: Georgia, serif;
+}
+
+h2 {
+  margin: 40px;
+  font-size: 60px;
+  font-family: Helvetica;
 }
 
 #social {
@@ -35,9 +43,14 @@ article {
   font-family: fantasy;
   color: #dee2e8;
 }
+#tribute {
+  font-size: 50px;
+  font-family: fantasy;
+  color: #dee2e8;
+}
 
  #home {
-   padding-top:50px;
+   padding-top:150px;
    height:800px;
    color: #fff; 
    background-color: #bbceed;
@@ -45,18 +58,25 @@ article {
   #aboutme {
     padding-top:50px;
     height:800px;
-    color: #fff; 
+    color: #263142; 
+    background-image: url(../images/top.jpg);
     background-color: #91a0ba;
+    background-size: 1500px;
   }
   #portfolio {
     padding-top:50px;
     height:800px;
-    color: #fff; 
+    color: #263142; 
+    background-image: url(../images/middle.jpg);
     background-color: #717d91;
+    background-size: 1500px;
   }
   #contact {
     padding-top:50px;
     height:800px;
-    color: #fff; 
+    color: #263142; 
+    
+    background-image: url(../images/bottom.jpg);
     background-color: #444c59;
+    background-size: 1500px;
   }
